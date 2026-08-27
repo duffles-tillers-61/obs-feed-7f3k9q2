@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+
+    <title>The Officer's Bookshelf</title>
+    <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2026 Percy Fitzwallace</copyright>
+    <description>Long-form conversations about books worth reading closely. Each week takes on a single title — an overview first, then chapter by chapter, then the themes still worth arguing about long after the last page.</description>
+
+    <itunes:author>Percy Fitzwallace</itunes:author>
+    <itunes:summary>Long-form conversations about books worth reading closely. Each week takes on a single title — an overview first, then chapter by chapter, then the themes still worth arguing about long after the last page.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Percy Fitzwallace</itunes:name>
+      <itunes:email>duffles-tillers-61@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/cover.jpg"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- ============ EPISODES ============
+         Newest episode goes FIRST, right below this line.
+         Copy the whole <item> block for each new episode and change:
+         title, description, duration, season, episode, url, length, guid, pubDate.
+
+         Naming: tag s01-tuchman_folly | file s01e01-tuchman_folly.m4a
+                 guid obs-s01e01-tuchman_folly
+    -->
+
+    <item>
+      <title>S1E1 · Overview — The March of Folly: From Troy to Vietnam</title>
+      <description>Barbara Tuchman's 1984 study of governments that pursue policies squarely against their own interest — the Trojans hauling the horse inside the walls, the Renaissance popes provoking the Protestant secession, Britain losing America, and America in Vietnam. A full-book discussion of what she means by folly, the four tests she sets for it, and whether the pattern really holds.</description>
+      <itunes:author>Percy Fitzwallace</itunes:author>
+      <itunes:duration>01:08:50</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s01-tuchman_folly/s01e01-tuchman_folly.m4a"
+                 length="132946311"
+                 type="audio/x-m4a"/>
+      <guid isPermaLink="false">obs-s01e01-tuchman_folly</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 -0700</pubDate>
+    </item>
+
+  </channel>
+</rss>
