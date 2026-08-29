@@ -24,16 +24,19 @@
     <itunes:type>episodic</itunes:type>
 
     <!-- ============ EPISODES ============
-         Newest episode goes FIRST, right below this line.
-         Copy the whole <item> block for each new episode and change:
-         title, description, duration, season, episode, url, length, guid, pubDate.
+         The feed carries ONLY the current book. Newest episode goes FIRST,
+         right below this line. When a new book starts, remove every item for
+         the old book (and its GitHub release + local files) before adding the
+         new book's episodes.
 
-         Naming: tag s01-tuchman_folly | file s01e01-tuchman_folly.m4a
-                 guid obs-s01e01-tuchman_folly
+         No more seasons — episode numbers just run 1..N for the current book.
+         Naming: tag/release s03-guns (legacy name, kept to avoid re-uploading
+         existing assets) | files vary, see podcast-hosting-setup memory
+                 guid obs-e01-guns .. obs-e08-guns
     -->
 
     <item>
-      <title>S3E7 · Full Book Review — The Guns of August</title>
+      <title>E8 · Full Book Review — The Guns of August</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
       <description>A closing conversation on the book as a whole: what Tuchman's month-by-month narrative argues about how wars actually begin, why her account of 1914 became required reading during the Cuban Missile Crisis, and what still holds up — and what doesn't — six decades on.</description>
       <content:encoded><![CDATA[
@@ -47,18 +50,17 @@
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
       <itunes:duration>00:49:13</itunes:duration>
-      <itunes:season>3</itunes:season>
-      <itunes:episode>7</itunes:episode>
+      <itunes:episode>8</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/s03e07-guns.m4a"
                  length="95051687"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s03e07-guns</guid>
-      <pubDate>Sat, 29 Aug 2026 15:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e08-guns</guid>
+      <pubDate>Sat, 29 Aug 2026 16:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>S3E6 · End Matter — The Guns of August</title>
+      <title>E7 · End Matter — The Guns of August</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
       <description>The book's end matter — Tuchman's notes, sources, and bibliography for The Guns of August.</description>
       <content:encoded><![CDATA[
@@ -67,18 +69,41 @@
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
       <itunes:duration>00:43:32</itunes:duration>
-      <itunes:season>3</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <itunes:episode>7</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/s03e06-guns.m4a"
                  length="84055070"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s03e06-guns</guid>
+      <guid isPermaLink="false">obs-e07-guns</guid>
+      <pubDate>Sat, 29 Aug 2026 15:00:00 -0700</pubDate>
+    </item>
+
+    <item>
+      <title>E6 · Debate — The Guns of August</title>
+      <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
+      <description>A structured debate on Tuchman's central claim: that once the mobilization timetables started running, the momentum toward war could not be stopped by anyone's will to stop it. One side argues the war was genuinely inevitable once the plans were set in motion; the other argues that individual choices, at several distinct points in the July crisis, could still have changed the outcome.</description>
+      <content:encoded><![CDATA[
+        <p>A structured debate on <em>The Guns of August</em>'s central claim: that once the
+        mobilization timetables started running, the momentum toward war could not be stopped by
+        anyone's will to stop it — generals told their own governments the trains, once
+        scheduled, could not be turned back.</p>
+        <p>One side argues the war was genuinely inevitable once the plans were set in motion;
+        the other argues that individual choices, at several distinct points in the July crisis,
+        could still have changed the outcome. Neither side gets the last word.</p>
+      ]]></content:encoded>
+      <itunes:author>Percy Fitzwallace</itunes:author>
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/debate-guns.m4a"
+                 length="43959711"
+                 type="audio/x-m4a"/>
+      <guid isPermaLink="false">obs-e06-guns</guid>
       <pubDate>Sat, 29 Aug 2026 14:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>S3E5 · Part 3 — The Guns of August</title>
+      <title>E5 · Part 3 — The Guns of August</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
       <description>Concluding the chapter-by-chapter discussion: the retreat, Tannenberg on the Eastern Front, and the Battle of the Marne that stopped the German advance and set the war on its course toward stalemate.</description>
       <content:encoded><![CDATA[
@@ -88,18 +113,17 @@
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
       <itunes:duration>01:12:17</itunes:duration>
-      <itunes:season>3</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/s03e05-guns.m4a"
                  length="139568150"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s03e05-guns</guid>
+      <guid isPermaLink="false">obs-e05-guns</guid>
       <pubDate>Sat, 29 Aug 2026 13:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>S3E4 · Part 2 — The Guns of August</title>
+      <title>E4 · Part 2 — The Guns of August</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
       <description>Continuing chapter by chapter: the armies cross their frontiers. The German advance through Belgium and the collision of plan with reality in the opening battles.</description>
       <content:encoded><![CDATA[
@@ -109,18 +133,17 @@
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
       <itunes:duration>00:58:54</itunes:duration>
-      <itunes:season>3</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/s03e04-guns.m4a"
                  length="113750813"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s03e04-guns</guid>
+      <guid isPermaLink="false">obs-e04-guns</guid>
       <pubDate>Sat, 29 Aug 2026 12:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>S3E3 · Part 1 — The Guns of August</title>
+      <title>E3 · Part 1 — The Guns of August</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
       <description>Picking up the chapter-by-chapter discussion: the war plans each general staff had drawn up years before 1914, and the diplomatic chain reaction — from the funeral of Edward VII to the July crisis — that set those plans in motion.</description>
       <content:encoded><![CDATA[
@@ -131,18 +154,17 @@
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
       <itunes:duration>00:45:54</itunes:duration>
-      <itunes:season>3</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/s03e03-guns.m4a"
                  length="88630064"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s03e03-guns</guid>
+      <guid isPermaLink="false">obs-e03-guns</guid>
       <pubDate>Sat, 29 Aug 2026 11:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>S3E2 · Front Matter — The Guns of August</title>
+      <title>E2 · Front Matter — The Guns of August</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
       <description>The book's front matter — Tuchman's foreword on sources and method, and the cast of the war's principal statesmen and commanders she asks the reader to keep straight before the narrative proper begins.</description>
       <content:encoded><![CDATA[
@@ -152,18 +174,17 @@
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
       <itunes:duration>00:37:21</itunes:duration>
-      <itunes:season>3</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/s03e02-guns.m4a"
                  length="72119826"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s03e02-guns</guid>
+      <guid isPermaLink="false">obs-e02-guns</guid>
       <pubDate>Sat, 29 Aug 2026 10:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>S3E1 · Overview — The Guns of August</title>
+      <title>E1 · Overview — The Guns of August</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
       <description>Barbara Tuchman's 1962 Pulitzer Prize–winning account of how the great powers stumbled from the assassination of Archduke Franz Ferdinand into a continental war within five weeks — bound by mobilization timetables and war plans drawn up years in advance. A full-book discussion of the July crisis, the invasion of Belgium, and the battles of the war's first month that set the terms for everything that followed.</description>
       <content:encoded><![CDATA[
@@ -175,47 +196,19 @@
         <p>This first episode takes the book whole: the funeral of Edward VII that opens it, the
         diplomatic collapse of July 1914, the invasion of Belgium, and the battles of the war's
         first month that decided the shape of everything that followed.</p>
-        <p><strong>Season 3</strong> continues with the front matter, three chapter-by-chapter
-        episodes, the end matter, and a closing full-book review.</p>
+        <p>The rest of this run of episodes continues with the front matter, three
+        chapter-by-chapter episodes, a debate on the book's central claim, the end matter, and a
+        closing full-book review.</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
       <itunes:duration>00:51:55</itunes:duration>
-      <itunes:season>3</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s03-guns/s03e01-guns.m4a"
                  length="100249943"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s03e01-guns</guid>
+      <guid isPermaLink="false">obs-e01-guns</guid>
       <pubDate>Sat, 29 Aug 2026 09:00:00 -0700</pubDate>
-    </item>
-
-    <item>
-      <title>S1E1 · Overview — The March of Folly: From Troy to Vietnam</title>
-      <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>Barbara Tuchman's 1984 study of governments that pursue policies squarely against their own interest — the Trojans hauling the horse inside the walls, the Renaissance popes provoking the Protestant secession, Britain losing America, and America in Vietnam. A full-book discussion of what she means by folly, the four tests she sets for it, and whether the pattern really holds.</description>
-      <content:encoded><![CDATA[
-        <p>Barbara Tuchman's <em>The March of Folly: From Troy to Vietnam</em> (1984) asks a
-        deceptively simple question: why do governments so often pursue policies that run
-        directly against their own interests, when a better course was both available and
-        argued for at the time?</p>
-        <p>This first episode takes the book whole. We work through her four case studies —
-        the Trojans hauling the horse inside the walls, the Renaissance popes provoking the
-        Protestant secession, Britain losing America, and America in Vietnam — and then test
-        the framework itself: the four criteria she sets for folly, why she insists on
-        contemporary rather than hindsight judgment, and where the argument strains.</p>
-        <p><strong>Season 1</strong> continues with chapter and thematic episodes on the same book.</p>
-      ]]></content:encoded>
-      <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>01:08:50</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/s01-tuchman_folly/s01e01-tuchman_folly.m4a"
-                 length="132946311"
-                 type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-s01e01-tuchman_folly</guid>
-      <pubDate>Thu, 27 Aug 2026 09:00:00 -0700</pubDate>
     </item>
 
   </channel>
