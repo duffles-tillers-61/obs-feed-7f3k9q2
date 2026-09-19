@@ -33,177 +33,142 @@
          Episodes are ordered newest-first here (E7 down to E1) and pubDates
          run oldest for E1 to newest for E7, so a player sorted either way keeps
          them in numbered order.
-         Naming: tag/release conflict | files e01-conflict.m4a .. e07-conflict.m4a
-                 guid obs-e01-conflict .. obs-e07-conflict
+         Naming: tag/release spqr | files e01-spqr.m4a .. e07-spqr.m4a
+                 guid obs-e01-spqr .. obs-e07-spqr
     -->
 
     <item>
-      <title>E7 · Closing Review — Conflict</title>
+      <title>E7 · Closing Review — SPQR</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>A closing conversation on Conflict as a whole: what Petraeus and Roberts argue about strategic leadership across eight decades of war, whether their four tasks of the strategic leader hold up as a lens on the record, and where the book's judgments are most and least persuasive.</description>
+      <description>A closing conversation on SPQR as a whole: what Beard is arguing against, how well her method holds up, where the sceptical reading of the sources is most and least convincing, and what the book offers a reader who wants Rome as history rather than as fable.</description>
       <content:encoded><![CDATA[
-        <p>A closing conversation on <em>Conflict: The Evolution of Warfare from 1945 to Ukraine</em>
-        as a whole. We pull the threads together: the authors' recurring argument that outcomes
-        turn on strategic leadership — getting the big ideas right, communicating them,
-        overseeing their execution, and refining them as the fight changes.</p>
-        <p>We weigh what the book gets right and where it strains: how much Petraeus's own
-        experience shapes the verdicts, whether the "great captain" framing does justice to the
-        role of institutions and luck, and what their reading of the record implies for the wars
-        still to come.</p>
+        <p>A closing conversation on <em>SPQR: A History of Ancient Rome</em> as a whole. We pull the threads together: incorporation as the engine of Roman power, the persistent gap between what Romans said about their past and what can be evidenced, and Beard's refusal to organise a thousand years around the biographies of great men.</p>
+        <p>We also weigh where the book strains: whether ending at 212 CE dodges questions readers come for, whether the scepticism is applied evenly, and how much a single volume can say about military and economic history while giving so much room to the social. And we ask what it is for — what a serving officer or any general reader takes from Rome told this way.</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>00:54:34</itunes:duration>
+      <itunes:duration>00:48:53</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/conflict/e07-conflict.m4a"
-                 length="105358554"
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/spqr/e07-spqr.m4a"
+                 length="94401531"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-e07-conflict</guid>
-      <pubDate>Sat, 05 Sep 2026 15:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e07-spqr</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>E6 · Part 5: Ukraine &amp; the Future of War — Conflict</title>
+      <title>E6 · Part 5: Provinces &amp; Legacy — SPQR</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>The final part: Russia's 2014 seizure of Crimea and the full-scale invasion of Ukraine in 2022, and the authors' conclusions on where warfare is heading — drones, precision, cyber and space, artificial intelligence, and what stays constant even as the character of war keeps changing.</description>
+      <description>Rome outside Rome: governors and garrisons, Britain to Syria, the letters of Pliny and Trajan, and the everyday business of running an empire — closing with Caracalla's edict of 212 CE, where Beard chooses to end, and why she refuses the story of decline and fall.</description>
       <content:encoded><![CDATA[
-        <p>The final part of <em>Conflict</em>: Russia's 2014 annexation of Crimea and war in the
-        Donbas, and the full-scale invasion of Ukraine in February 2022 — why Moscow's assumptions
-        failed, how Ukraine's defense held, and what the war has revealed about drones, precision
-        strike, and the transparency of the modern battlefield.</p>
-        <p>From there Petraeus and Roberts turn to the future: the pull of unmanned systems, cyber
-        and space, and artificial intelligence, set against their insistence that the nature of war
-        endures even as its character is transformed.</p>
+        <p>The empire as experienced from the edges. Beard moves out to the provinces — soldiers' letters from Vindolanda, the correspondence between Pliny in Bithynia and the emperor Trajan, the modest staffing of vast territories — and shows how much of Roman rule depended on local elites choosing to become Roman.</p>
+        <p>She ends in 212 CE, when Caracalla granted citizenship to nearly every free person in the empire: a moment that completes the book's central theme of incorporation, and a deliberate refusal of the usual terminus of decline and fall. The episode closes on what Rome left behind and why its arguments about citizenship, empire and belonging keep resurfacing.</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>01:13:02</itunes:duration>
+      <itunes:duration>01:03:35</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/conflict/e06-conflict.m4a"
-                 length="141042521"
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/spqr/e06-spqr.m4a"
+                 length="122783632"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-e06-conflict</guid>
-      <pubDate>Sat, 05 Sep 2026 14:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e06-spqr</guid>
+      <pubDate>Fri, 18 Sep 2026 14:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>E5 · Part 4: Afghanistan &amp; Iraq — Conflict</title>
+      <title>E5 · Part 4: Emperors &amp; Society — SPQR</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>The post-9/11 wars: the intervention in Afghanistan, the 2003 invasion of Iraq and the insurgency that followed, and the counterinsurgency campaign and surge — the stretch of the book closest to Petraeus's own command experience.</description>
+      <description>The emperors from Tiberius to Commodus — and Beard's argument that the lurid biographies matter less than the machinery that kept working regardless. Alongside them, the Roman home front: family, slavery, freedmen, food, work, and the lives of the people the histories mostly ignore.</description>
       <content:encoded><![CDATA[
-        <p>The post-9/11 wars in <em>Conflict</em>: the toppling of the Taliban in Afghanistan, the
-        2003 invasion of Iraq, and the descent into insurgency and sectarian violence that the
-        initial plans had not reckoned with.</p>
-        <p>This is the ground Petraeus knows firsthand, and the account leans into it: the rewriting
-        of counterinsurgency doctrine, the 2007 surge in Iraq, and the hard argument over how much
-        difference command and strategy made — set beside the long, unresolved war in Afghanistan.</p>
+        <p>Fourteen emperors, and a case for reading them differently. Beard sets the familiar catalogue of monsters and paragons — Caligula's horse, Nero's fiddle, the good emperors of the second century — against the striking continuity of imperial administration, and suggests the scandal stories tell us more about senatorial anxiety than about how the empire was actually run.</p>
+        <p>The other half of the episode turns away from the palace: households and marriage, the sheer scale and ordinariness of slavery, the freedmen who became rich and the epitaphs they left, the economics of bread and housing, and what tombstones, graffiti and shopping lists reveal about Romans who never appear in Tacitus.</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>01:12:15</itunes:duration>
+      <itunes:duration>01:14:44</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/conflict/e05-conflict.m4a"
-                 length="139516604"
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/spqr/e05-spqr.m4a"
+                 length="144316573"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-e05-conflict</guid>
-      <pubDate>Sat, 05 Sep 2026 13:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e05-spqr</guid>
+      <pubDate>Fri, 18 Sep 2026 13:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>E4 · Part 3: Cold War's End &amp; the New Disorder — Conflict</title>
+      <title>E4 · Part 3: Revolution &amp; Augustus — SPQR</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>The late Cold War and its aftermath: the Soviet quagmire in Afghanistan, the Falklands, the decisive First Gulf War of 1991, and the wars of the 1990s that broke out as the bipolar order fell away.</description>
+      <description>The end of the republic and the making of one-man rule: Pompey and Caesar, the civil wars and the Ides of March, and then the long, careful transformation by which Octavian became Augustus and an emperor came to look like a restored republic.</description>
       <content:encoded><![CDATA[
-        <p>The turn from the Cold War to what came after, as told in <em>Conflict</em>: the Soviet
-        Union's own draining war in Afghanistan, Britain's campaign in the Falklands, and the
-        1991 Gulf War — a swift, overwhelming coalition victory that seemed, at the time, to
-        promise a new model of decisive conventional war.</p>
-        <p>Then the disorder that followed the Soviet collapse: the Balkans and the other conflicts
-        of the 1990s, where the clean lessons of 1991 proved far harder to apply.</p>
+        <p>The republic's last generation: the informal dominance of the great commanders, Cicero's consulship and the Catilinarian conspiracy, Caesar in Gaul and at the Rubicon, and the assassination that solved nothing. Beard is sharp on how contemporaries struggled to name what was happening to them, and on how much of the &quot;fall of the republic&quot; is hindsight.</p>
+        <p>Then the Augustan settlement — the most consequential political improvisation in Roman history. Octavian's victory at Actium, the slow accumulation of powers under republican titles, the building programme and the poetry, and the unanswered question the whole system rested on: how do you hand on a position that officially does not exist?</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>00:45:49</itunes:duration>
+      <itunes:duration>01:02:48</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/conflict/e04-conflict.m4a"
-                 length="88485139"
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/spqr/e04-spqr.m4a"
+                 length="121276275"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-e04-conflict</guid>
-      <pubDate>Sat, 05 Sep 2026 12:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e04-spqr</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>E3 · Part 2: Vietnam &amp; Cold War Hot Wars — Conflict</title>
+      <title>E3 · Part 2: Expansion &amp; Crisis — SPQR</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>The wars at the Cold War's height: Vietnam in depth — escalation, attrition, and the limits of American strategy — alongside the Arab–Israeli wars and the other "hot" conflicts fought under the shadow of superpower rivalry.</description>
+      <description>From a middling Italian town to the dominant power of the Mediterranean: the conquest of Italy, the Punic Wars and the destruction of Carthage — and then the political crisis that success brought home, from the Gracchi through Marius and Sulla.</description>
       <content:encoded><![CDATA[
-        <p>The middle of the Cold War, as <em>Conflict</em> tells it, centered on Vietnam: the
-        escalation of American involvement, the strategy of attrition and its failure, and the
-        gap between battlefield performance and political outcome that defined the war.</p>
-        <p>Around it, the other hot wars of the era — the Arab–Israeli wars of 1967 and 1973 chief
-        among them — and what they revealed about armor, air power, surprise, and the strategic
-        leadership that turned tactical results into lasting effect, or squandered them.</p>
+        <p>How Rome grew. Beard's answer turns on something unusual: a willingness to absorb the defeated, extending citizenship and alliance rather than simply subjugating, which kept producing more Romans and more soldiers. The conquest of Italy, the wars with Carthage and Hannibal's invasion, and the absorption of the Greek east follow from there.</p>
+        <p>The second half of the episode is the bill coming due at home: land, debt and the dispossessed; the Gracchi and the turn to political violence; Marius and the professionalised army loyal to its commander; the Social War; and Sulla's march on Rome — the republic's institutions failing to scale to the empire they had won.</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>01:08:12</itunes:duration>
+      <itunes:duration>01:12:36</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/conflict/e03-conflict.m4a"
-                 length="131709392"
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/spqr/e03-spqr.m4a"
+                 length="140205606"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-e03-conflict</guid>
-      <pubDate>Sat, 05 Sep 2026 11:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e03-spqr</guid>
+      <pubDate>Fri, 18 Sep 2026 11:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>E2 · Part 1: Postwar &amp; Decolonization — Conflict</title>
+      <title>E2 · Part 1: Origins &amp; Kings — SPQR</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>The first stretch after 1945: the Chinese Civil War, Korea, and the long wars of decolonization — Indochina and Dien Bien Phu, Malaya, Algeria — where great powers learned, often painfully, how irregular war and national liberation would reshape conflict.</description>
+      <description>The foundation stories and the regal period: Romulus and Remus, Aeneas and the Trojan inheritance, the seven kings and the expulsion of Tarquin — and Beard's careful separation of what Romans told themselves about their beginnings from what the archaeology will actually support.</description>
       <content:encoded><![CDATA[
-        <p>The opening period of <em>Conflict</em>, from 1945 into the 1960s: the communist victory
-        in the Chinese Civil War, the war in Korea and its costly stalemate, and the wars of
-        decolonization that pulled the European empires apart.</p>
-        <p>Indochina and the French defeat at Dien Bien Phu, the British campaign in Malaya, and
-        the Algerian war become the authors' first case studies in irregular warfare — where
-        conventional strength ran up against insurgency, politics, and the will of populations.</p>
+        <p>Rome's beginnings as the Romans narrated them: twins suckled by a wolf, a fratricide at the founding, the rape of the Sabine women, and the Trojan refugee Aeneas grafted on to give Rome a pedigree as old as Greece's. Beard treats these less as bad history than as evidence of how Romans understood violence, asylum and identity as built into their city from the start.</p>
+        <p>Then the regal period and its end: the seven kings, the reforms credited to them, the expulsion of Tarquin the Proud, and the founding of the republic in 509 BCE — a date and a story she shows to be far shakier than the tradition allows, set against what excavation in the Forum and on the Palatine can and cannot tell us.</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>01:20:53</itunes:duration>
+      <itunes:duration>00:59:02</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/conflict/e02-conflict.m4a"
-                 length="156186825"
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/spqr/e02-spqr.m4a"
+                 length="113982511"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-e02-conflict</guid>
-      <pubDate>Sat, 05 Sep 2026 10:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e02-spqr</guid>
+      <pubDate>Fri, 18 Sep 2026 10:00:00 -0700</pubDate>
     </item>
 
     <item>
-      <title>E1 · Overview — Conflict</title>
+      <title>E1 · Overview — SPQR</title>
       <link>https://duffles-tillers-61.github.io/obs-feed-7f3k9q2/</link>
-      <description>General David Petraeus and historian Andrew Roberts survey the evolution of warfare from 1945 to Ukraine, arguing that the thread running through eight decades of conflict is strategic leadership. A full-book overview of their central argument and the sweep of wars the book covers, before the part-by-part episodes that follow.</description>
+      <description>Mary Beard's history of ancient Rome asks how a small and unremarkable town in central Italy came to rule an empire of some fifty million people — and why, two thousand years later, we are still arguing with the Romans. A full-book overview of her argument and method before the part-by-part episodes that follow.</description>
       <content:encoded><![CDATA[
-        <p><em>Conflict: The Evolution of Warfare from 1945 to Ukraine</em> (2023) pairs General
-        David Petraeus, who commanded in Iraq and Afghanistan, with the historian Andrew Roberts
-        for a survey of eight decades of war — from the wars of decolonization to Russia's
-        invasion of Ukraine.</p>
-        <p>This first episode takes the book whole: the authors' central claim that strategic
-        leadership is the thread tying these conflicts together — the leader's task of getting the
-        big ideas right, communicating them, driving their execution, and refining them — and how
-        that lens sets up the wars examined in the rest of the run.</p>
-        <p>The episodes that follow move through the book part by part: postwar and decolonization,
-        Vietnam and the Cold War's hot wars, the Cold War's end and the new disorder, Afghanistan
-        and Iraq, and Ukraine and the future of war — closing with a full-book review.</p>
+        <p><em>SPQR: A History of Ancient Rome</em> (2015) is Mary Beard's account of Rome's first millennium, from the misty foundation stories to 212 CE, when the emperor Caracalla made every free inhabitant of the empire a Roman citizen. She opens not at the beginning but in 63 BCE, with Cicero against Catiline — a deliberate choice that puts evidence and argument, rather than chronology, at the centre.</p>
+        <p>This first episode takes the book whole: Beard's insistence that Rome's rise was neither inevitable nor the work of destiny, her sceptical handling of the sources, and her recurring interest in the people the traditional histories leave out — slaves, freedmen, soldiers, women, provincials.</p>
+        <p>The episodes that follow move through the book in order: origins and the kings, expansion and the crisis of the republic, the revolution that ended it and the Augustan settlement, the emperors and Roman society, and the provinces and the long legacy — closing with a full-book review.</p>
       ]]></content:encoded>
       <itunes:author>Percy Fitzwallace</itunes:author>
-      <itunes:duration>00:46:54</itunes:duration>
+      <itunes:duration>00:45:16</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/conflict/e01-conflict.m4a"
-                 length="90576796"
+      <enclosure url="https://github.com/duffles-tillers-61/obs-feed-7f3k9q2/releases/download/spqr/e01-spqr.m4a"
+                 length="87402216"
                  type="audio/x-m4a"/>
-      <guid isPermaLink="false">obs-e01-conflict</guid>
-      <pubDate>Sat, 05 Sep 2026 09:00:00 -0700</pubDate>
+      <guid isPermaLink="false">obs-e01-spqr</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 -0700</pubDate>
     </item>
 
   </channel>
